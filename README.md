@@ -1,0 +1,1 @@
+Hello, this is the README file for the google-homepage project from Project Odin. Thank you to the creators of the webiste. I'm using newly learned Git and Github skills for this project.
